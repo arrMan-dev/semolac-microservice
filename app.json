@@ -1,0 +1,8 @@
+{
+  "name": "arrisdev-microservice-1-product",
+  "buildpacks": [
+    {
+      "url": "heroku/maven"
+    }
+  ]
+}
